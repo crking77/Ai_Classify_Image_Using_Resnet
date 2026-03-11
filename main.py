@@ -1,4 +1,4 @@
-import cv2 as cv
+
 import numpy as np
 import torch
 from torchvision.models import mobilenet_v2,MobileNet_V2_Weights
